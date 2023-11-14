@@ -1,0 +1,6 @@
+11/14/2023 10:09:40 AM: INFO: *************** test_TS001_TC001_privacyPolicy *****************
+11/14/2023 10:09:40 AM: INFO: *************** verifying Privacy Policy Page *****************
+11/14/2023 10:09:45 AM: INFO: *************** test_TS001_TC001_privacyPolicy test passed *****************
+11/14/2023 10:09:46 AM: INFO: *************** test_TS001_TC002_termsAndCondition *****************
+11/14/2023 10:09:46 AM: INFO: *************** verifying Terms and Condition Page *****************
+11/14/2023 10:09:55 AM: ERROR: *************** test_TS001_TC002_termsAndCondition test failed *****************
